@@ -6,3 +6,7 @@ Ne pas modifier ce fichier.
 - le fichier caché <code>.classpath</code>
 - le dossier <code>src/</code>
 - le fichier <code>src/.gitignore</code> (identique au <code>.gitignore</code> à la racine)
+
+Readme edité par jeremy panaiva 
+avec les ajout des exo java 
+
