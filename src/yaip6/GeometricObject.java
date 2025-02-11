@@ -1,5 +1,6 @@
 package yaip6;
 
-public class GeometricObject {
-
+public interface  GeometricObject {
+	public double getArea (); 
+	public double getPerimeter() ;
 }
